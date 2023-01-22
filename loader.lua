@@ -1,1 +1,9 @@
-loadstring(game:HttpGet("soon.com"))()
+--[[
+ ______  __    __  ______  ______  ______    
+/\  ___\/\ "-./  \/\  __ \/\  ___\/\  ___\   
+\ \  __\\ \ \-./\ \ \  __ \ \ \__ \ \  __\   
+ \ \_____\ \_\ \ \_\ \_\ \_\ \_____\ \_____\ 
+  \/_____/\/_/  \/_/\/_/\/_/\/_____/\/_____/ 
+                                             
+--]]
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DatEmage/syntaxed/main/handler.lua"))()
