@@ -4,4 +4,4 @@ An upcoming GUI focused on mobile players
 Coming soon, but it will be a simple Linkvertise
 ## Supported executors
 ✅ Any PC executor <br>
-✅ Fluxus (Mobile & PC Version) <br
+✅ Fluxus (Mobile & PC Version)
