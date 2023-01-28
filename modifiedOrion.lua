@@ -1,4 +1,7 @@
-
+--[[
+_____ Modified Orion UI Library _____
+_____ Distributed by Syntaxed _____
+--]]
 
 local UserInputService = game:GetService("UserInputService")
 local TweenService = game:GetService("TweenService")
@@ -651,8 +654,8 @@ function OrionLib:MakeWindow(WindowConfig)
 		MainWindow.Visible = false
 		UIHidden = true
 		OrionLib:MakeNotification({
-			Name = "Interface Hidden",
-			Content = "Tap RightShift to reopen the interface",
+			Name = "Syntaxed Closed",
+			Content = "Press RightShift to reopen Syntaxed",
 			Time = 5
 		})
 		WindowConfig.CloseCallback()
