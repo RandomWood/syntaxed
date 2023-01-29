@@ -7,7 +7,7 @@
                                              
 --]]
 local Lib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/DatEmage/syntaxed/main/modifiedOrion.lua')))()
-local Syntaxed = Lib:MakeWindow({Name = "Syntaxed • Not Supported", HidePremium = false, SaveConfig = false, ConfigFolder = "SyntaxedNoSupport"})
+local Syntaxed = Lib:MakeWindow({Name = "Syntaxed • Not Supported", HidePremium = true, SaveConfig = false, ConfigFolder = "SyntaxedNoSupport"})
 
 local NotSupportedTab = Syntaxed:MakeTab({
 	Name = "Not Supported",
