@@ -6,8 +6,8 @@
   \/_____/\/_/  \/_/\/_/\/_/\/_____/\/_____/ 
                                              
 --]]
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/DatEmage/syntaxed/main/modifiedOrion.lua')))()
-local Syntaxed = OrionLib:MakeWindow({Name = "Syntaxed • Not Supported", HidePremium = false, SaveConfig = false, ConfigFolder = "SyntaxedNoSupport"})
+local Lib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/DatEmage/syntaxed/main/modifiedOrion.lua')))()
+local Syntaxed = Lib:MakeWindow({Name = "Syntaxed • Not Supported", HidePremium = false, SaveConfig = false, ConfigFolder = "SyntaxedNoSupport"})
 
 local NotSupportedTab = Syntaxed:MakeTab({
 	Name = "Not Supported",
@@ -19,4 +19,4 @@ local MSG = NotSupportedTab:AddSection({
 	Name = "The game you're playing isn't supported by Syntaxed"
 })
 
-OrionLib:Init()
+Lib:Init()
