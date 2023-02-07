@@ -1,5 +1,8 @@
 if game.PlaceId == 155615604 then
- loadstring(game:HttpGet('https://raw.githubusercontent.com/DatEmage/syntaxed/main/Games/prison_life.lua', true))()
+ loadstring(game:HttpGet('https://raw.githubusercontent.com/DatEmage/syntaxed/main/Games/Prison%20Life.lua', true))()
+elseif
+  game.PlacdId == 11800876530 then
+ loadstring(game:HttpGet('https://raw.githubusercontent.com/DatEmage/syntaxed/main/Games/%2B1%20Blocks%20Every%20Second', true))()
 else
  loadstring(game:HttpGet('https://raw.githubusercontent.com/DatEmage/syntaxed/main/Games/NotSupported.lua', true))()
 end
