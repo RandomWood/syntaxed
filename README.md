@@ -6,8 +6,10 @@
 
 </div>
 
-## How to get the key?
-Coming soon, but it will be a simple Linkvertise
 ## Supported executors
 ✅ Any PC executor <br>
 ✅ Fluxus (Mobile & PC Version)
+
+## Questions?
+If you have any questions join Syntaxed's Discord server
+https://discord.gg/nsfSws9Emz
