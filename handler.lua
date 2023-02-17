@@ -3,9 +3,9 @@ local CoreGui = game:GetService("StarterGui")
 CoreGui:SetCore("SendNotification", {
 	Title = "Syntaxed";
 	Text = "Loading the GUI...";
-	Duration = 4;
+	Duration = 3;
 })
-wait(3)
+wait(2)
 if game.PlaceId == 155615604 then
  loadstring(game:HttpGet('https://raw.githubusercontent.com/DatEmage/syntaxed/main/Games/Prison%20Life.lua', true))()
 elseif game.PlaceId == 11800876530 then
