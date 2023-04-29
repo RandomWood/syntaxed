@@ -16,4 +16,4 @@ Syntaxed key system is temporarily disabled as it will get a rewrite
 
 ## Questions?
 If you have any questions join Syntaxed's Discord server
-https://discord.gg/nsfSws9Emz
+INVITE UNAVAILABLE DUE TO FAT DISCORD MODS BANNING ME
